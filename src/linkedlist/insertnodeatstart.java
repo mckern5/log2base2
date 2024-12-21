@@ -15,7 +15,7 @@ public class insertnodeatstart {
 		
 		Node head;
 		
-		private void addFirst(int val){
+		private void addFirst(int val){   //10,20,30,40 head
 		
 			Node newNode=new Node();
 			newNode.data=val;
