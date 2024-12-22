@@ -1,0 +1,39 @@
+problem solving with dsa
+
+array
+	remove duplicated from the sorted array
+	rotate an array by k positions (normal method)
+	rotate an array by k positions (reversal method)
+	reverse individual words
+	reverse a string without affecting special characters
+
+linked list
+	find middle node of the linked list (loop)
+	find the middle node of th linked list(using slow, fast pointers)
+	get nth node of the linked list
+	print the linked list in reverse oreder
+	get nth node from the last
+	detect the loop in linked list
+	reverse the linked list
+
+stack
+	implement 2 stacks in an array (method 1)
+	implement 2 stack in an array (method 2)
+	reverse a string using stack
+	check if the given expression is balance or not
+	intro to infix prefic, postfix express
+	evaluate the postfix express using stack
+
+bst
+	find min value in bst
+	find sizeof() bst
+	find max depth or height of bst
+	mirror of the tree
+	check if binary tree bst
+	check if two  bsts are ==
+	double tree
+	
+hashing
+	check if array subset of another array
+	check if given 2 arrys are disjoin
+	check for subarry with sum 0
