@@ -1,0 +1,67 @@
+algorithms in java
+
+intro to algos
+	intro
+	how to write
+	how to analyse
+	time and space complexity analysis part 1
+	time and space complexity analysis part 2
+	why analysing time complexity is important
+
+searching algos
+	linear search-implemetation time and space complexity
+	binary search-implementation time and space complexity
+
+hashing
+	intro to hashing and collision
+	collision avoidance using linear probing
+	implement hash table with linear probing-insert
+	implement hash table with linerar probing-delete
+	implement hash tables with linear probing-search
+	quadractiv probing
+	open hashing or separate chaining
+
+sorting
+	selection sort
+	ss
+	ss time amd space
+	bubble sort
+	bubble time and space
+	insertion sort
+	insert sort time and space
+	binary heap
+	heapify
+	heap sort
+	quick sort intro
+	implementation of partition function quick sort
+	merge sort I
+	merge sort ii
+	implement merge function
+
+divide and conquer stategy
+	intro
+	binary search using divid and conquer strategy
+
+optimization problem
+	how to solve it
+	
+	
+	
+dynammic programming
+	intro
+	memoization: avoid recomputation issue in Top down approach
+	implemetation of nth fibonacci : bottom -up
+	implementiation of nth fibonacci: top down approach with memoization
+	
+greedy algorithms
+	intro
+	minimum coin exchainge problem
+	greedy can be wrong? yes
+	implement min coin exchange problem
+
+graph traversal
+	BFS
+	DFS
+
+
+
