@@ -1,0 +1,49 @@
+coding interview patters
+
+sliding window
+	max sub subarray of size k
+	smallest subarray with given sum
+
+two pointers
+	pair with target sum
+	remove all occurrences of an element from array
+	move all zeroes to the end
+	remove duplicated from sorted array
+	remove duplicated(at most twice) from sorted array
+
+fast and slow pointers
+	middle of the linked list
+	linkedlist loop
+	length of the linked list loop
+	start of the linked list loop
+	happy number
+
+cyclic sort
+	cyclic sort
+	find the duplicate number
+	find the missing numbers
+	
+	
+tree bfs
+	binary tree level order traversal
+	level order successor
+	minimum depth of a binary tree
+
+tree dfs
+	binary tree path sum
+	print paths in a tree
+	all path for a sum
+
+bitwise Xor
+	single numbers
+	two single numbers
+
+linked list reversal
+	reverse the ll
+	reverse the sublist
+	reverse every k nodes of the ll
+
+top k elements
+	top k elements using max heap
+	top k elements using min heap
+	kth smallest number
