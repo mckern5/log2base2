@@ -1,0 +1,61 @@
+data structures in java
+
+intro
+	ds and real life applications
+
+arrays in data str
+	INTR TO arryas
+	arry vs ll
+
+ll
+	ll basics
+	inserting a node at the beginning of a ll
+	insertign a node at the end of ll
+	deleting a node in ll
+	searching a node in singly ll
+	
+	
+doubly ll
+	intr to doubly ll
+	insert a node at the beginnning of doubly ll
+	insert a node at the end of doubly ll
+	seach a node in doubly linked list
+	delete a nodes in a doubly linked list
+
+circular ll
+	circular ll basic
+	inserting a node in a beginnning of circluary linked list
+	inerted node in the end of circular ll
+	seach a node in circular ll
+	deleting a node in circular linked list
+
+stack
+	stack using array and applic
+	stacking using ll
+
+queue
+	queue using arry and appl
+	queue using ll
+
+binary search tree
+	binary tree 
+	need for it
+	bst basics and node creation
+	binary recursion
+	insrt a node in bst
+	inorder traversal
+	seach a node in bst
+	delete a node in bst
+
+graphs
+	degree of vertex
+	adj matrix rep of graph
+	implementation of adj matrix
+	adj list rep of graph
+	implementation of adj list
+	adj matrix vs adj list
+
+binary heaps
+	priority queue
+	contruing binary heap=heapify
+	delete max element in binary heap
