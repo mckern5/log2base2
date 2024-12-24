@@ -4,7 +4,7 @@ public class insertnodeatstart {
 	
 	
 
-	public static class linkedlist{
+	static class linkedlist{
 		
 		private class Node {
 			int data;

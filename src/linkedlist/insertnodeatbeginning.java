@@ -1,50 +1,62 @@
 package linkedlist;
 
+//study this can be confusing
+class insertnodeatbeginning {
 
-
-
-class linkedlist {
-	
-	class node{    //class
-		int data;
-		node next;
-	}
-	
-	node head;
-	
-	public void addFirst(int val) {    //method
-		node newnode=new node();
-		newnode.data=val;
-		newnode.next=head;
+	 static class linkedlist {
 		
-	}
-	
-	public void print() {     //method
-		node temp=head;
-		while(temp!=null) {
-			System.out.println(temp.data);
-			temp=temp.next;    //used to idea of temp and temp.next are both nodes!!!
+		class node{    //class
+			int data;
+			node next;
 		}
-	}
-	
-}
+		node head;
+		
+		private void addFirst(int val) {    //method
+			
+			
+			
+			
+			node newnode=new node();
+			newnode.data=val;
+			newnode.next=head;                    // 40 <-30<-20<-10
+			
+			head=newnode;
+			
+		}
+		
+		private void print() {     //method
+			node temp=head;
+			while(temp!=null) {
+				System.out.print(temp.data+", ");
+				temp=temp.next;    //used to idea of temp and temp.next are both nodes!!!
+			}
+		
+		}
+   }//static ll
 
-public class insertnodeatbeginning {
+
+
+
 	
 	
 	
 	
 	public static void main(String[] args) {   //method
 		
-		linkedlist ll=new linkedlist(); //1 class, 2methods
+		linkedlist list=new linkedlist(); //1 class, 2methods
+		list.addFirst(10);
+		list.addFirst(20);
+		list.addFirst(30);
+		list.addFirst(40);
 		
+		list.print();
 		
 	}
 	
+}//insertatht beginnning
 	
 	
-	
-}
+
 
 
 
